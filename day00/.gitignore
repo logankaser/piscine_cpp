@@ -1,0 +1,7 @@
+.DS*
+.nfs*
+._*
+*.o
+*.a
+*.dSYM
+test
